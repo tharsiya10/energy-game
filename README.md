@@ -32,7 +32,7 @@ reçoivent de l’énergie.
 sa tuile reçoit de l’énergie, ou si une autre borne quelconque du plateau
 reçoit de l’énergie
 
-![Exemple de plateau](Energy%20game%202d59d0423cb941dbb4541606cb3a3104/Capture_dcran_du_2024-02-05_10-08-03.png)
+![Exemple de plateau](images/Capture_dcran_du_2024-02-05_10-08-03.png)
 
 Exemple de plateau
 
@@ -64,12 +64,12 @@ Le choix d’un niveau dans l’écran d’accueil sera suivi de la lecture du f
 de niveau associé, afin de reconstruire en mémoire une configuration finale du
 niveau, avant de la mélanger par rotation puis de la soumettre au joueur.
 
-![Choix de niveau](Energy%20game%202d59d0423cb941dbb4541606cb3a3104/Capture_dcran_du_2024-02-05_10-07-49.png)
+![Choix de niveau](images/Capture_dcran_du_2024-02-05_10-07-49.png)
 
 Choix de niveau
 
-![Plateau et son fichier de niveau correspondant](Energy%20game%202d59d0423cb941dbb4541606cb3a3104/Capture_dcran_du_2024-02-05_10-25-32.png)
+![Plateau et son fichier de niveau correspondant](images/Capture_dcran_du_2024-02-05_10-25-32.png)
 
 Plateau et son fichier de niveau correspondant
 
-![Capture d’écran du 2024-02-05 10-25-54.png](Energy%20game%202d59d0423cb941dbb4541606cb3a3104/Capture_dcran_du_2024-02-05_10-25-54.png)
+![Capture d’écran du 2024-02-05 10-25-54.png](images/Capture_dcran_du_2024-02-05_10-25-54.png)
